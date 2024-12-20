@@ -1,0 +1,1 @@
+{"contractId":"1234","business_contract":false,"securityLicense":true,"gateway":true,"connection":"red"}

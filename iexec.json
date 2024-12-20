@@ -1,0 +1,29 @@
+{
+  "description": "My iExec resource description, must be at least 150 chars long in order to pass the validation checks. Describe your application, dataset or workerpool to your users",
+  "license": "MIT",
+  "author": "?",
+  "social": {
+    "website": "?",
+    "github": "?"
+  },
+  "logo": "logo.png",
+  "buyConf": {},
+  "app": {
+    "owner": "0xd07811810fF11a04d6aE0f5083B969711963B4b3",
+    "name": "mfssia-off-chain-business-contract-verifier",
+    "type": "DOCKER",
+    "multiaddr": "melitus/mfssia-off-chain-business-contract-verifier:2.0.0",
+    "checksum": "0x2ff6cf0bd527a125b3769313adceb1aaffb87b7eb55c00fb70624a498a72dad6"
+  },
+  "order": {
+    "apporder": {
+      "app": "0x8821dc4F9522B9D4Ac18b6434F6fe4Bdb362d62d",
+      "appprice": "0",
+      "volume": "1000000",
+      "tag": [],
+      "datasetrestrict": "0x0000000000000000000000000000000000000000",
+      "workerpoolrestrict": "0x0000000000000000000000000000000000000000",
+      "requesterrestrict": "0x0000000000000000000000000000000000000000"
+    }
+  }
+}
